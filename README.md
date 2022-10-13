@@ -5,9 +5,11 @@ Banner animado praça, banner entrada, bancos city e tambem bandeiras praça. Ta
 
 Você pode saber mais sobre nós no nosso site > **https://sites.google.com/view/vieiras-store/home**
 
+
 - 🔭 Atualmente nossa loja é focada no FiveM.
 - 🌱 Nós utilizamos as linguagens: Lua, HTML e CSS em nossos projetos.
 - 📫 Contato: https://discord.gg/C5tXDsZhVJ
+
 
 <div>
 <a href="https://www.youtube.com/channel/UCfHTdFLxeZwg78F3aIVx8WA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
