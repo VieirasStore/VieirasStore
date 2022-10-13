@@ -13,7 +13,6 @@ Sou Luigi Guido Bavaresco, tenho 18 anos, estou iniciando minha carreira como pr
 
 <div>
 <a href="https://www.youtube.com/channel/UCfHTdFLxeZwg78F3aIVx8WA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
-<a href="https://instagram.com/luigi.bavaresco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
 </div>
 
 <div>
