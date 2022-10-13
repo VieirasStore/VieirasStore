@@ -6,7 +6,8 @@
 
 
 - 👨‍🚀 Atualmente nossa loja é focada no FiveM.
-- 💼 Nós utilizamos as linguagens: Lua, HTML e CSS em nossos projetos.
+- 💼 Nós utilizamos as linguagens: Lua, HTML e CSS em nossos scripts.
+- 📊 Planejamos futuramente utilizar mais linguagens como JavasScript em nossos projetos.
 - 📫 Contato: https://discord.gg/C5tXDsZhVJ
 
 
