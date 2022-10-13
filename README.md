@@ -1,6 +1,5 @@
 # vsTest
 
-<!--
 
 🇧🇷 pt-br
 Sou Luigi Guido Bavaresco, tenho 18 anos, estou iniciando minha carreira como programador, estudando jogos digitais
@@ -8,8 +7,6 @@ Sou Luigi Guido Bavaresco, tenho 18 anos, estou iniciando minha carreira como pr
 - 🔭 Atualmente estou trabalhando em projetos para servidores FiveM
 - 🌱 Atualmente estou aprendendo js, ​​lua, ruby, c#
 - 📫 Como me contatar: https://discord.gg/w8hwRYJ4Zv
--->
-
 
 <div>
 <a href="https://www.youtube.com/channel/UCfHTdFLxeZwg78F3aIVx8WA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
