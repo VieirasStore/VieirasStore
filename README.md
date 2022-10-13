@@ -13,7 +13,8 @@ Você pode saber mais sobre nós no nosso site > **https://sites.google.com/view
 
 <div>
 <a href="https://www.youtube.com/channel/UCV_bKKCJp2qoubhEgU1Ctjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
-<a href="https://instagram.com/VieirasStore target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
+<!--<a href="https://instagram.com/VieirasStore target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
+-->
 
 <div>
 <a href="https://github.com/VieirasStore">
