@@ -10,16 +10,6 @@
 - 📊 Planejamos futuramente utilizar mais linguagens como JavasScript em nossos projetos.
 - 📫 Contato: https://discord.gg/C5tXDsZhVJ
 
-
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="LUA - Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
-  <img align="center" alt="HTML5 - Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3 - Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- </div>
-</br>
-
  <div align="center">
   <a href="https://www.youtube.com/channel/UCV_bKKCJp2qoubhEgU1Ctjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vsdev__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
