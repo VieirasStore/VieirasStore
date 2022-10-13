@@ -5,8 +5,8 @@
 - Você pode saber mais sobre nós no nosso site > **https://sites.google.com/view/vieiras-store/home**
 
 
-- 🔭 Atualmente nossa loja é focada no FiveM.
-- 🌱 Nós utilizamos as linguagens: Lua, HTML e CSS em nossos projetos.
+- 👨‍🚀 Atualmente nossa loja é focada no FiveM.
+- 💼 Nós utilizamos as linguagens: Lua, HTML e CSS em nossos projetos.
 - 📫 Contato: https://discord.gg/C5tXDsZhVJ
 
 
