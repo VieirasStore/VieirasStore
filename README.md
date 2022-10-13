@@ -14,7 +14,7 @@ Você pode saber mais sobre nós no nosso site > **https://sites.google.com/view
 <div>
 <a href="https://www.youtube.com/channel/UCV_bKKCJp2qoubhEgU1Ctjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
 <a href="https://instagram.com/VieirasStore target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
-<a href = "mailto:luigiguidobc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
+<a href = "contato.vsdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5px;" target="_blank"></a>
 <a href = "https://discord.gg/w8hwRYJ4Zv"><img src="https://img.shields.io/discord/948978441217245184?color=%232e3135&label=%20&logo=discord&logoColor=%23ffffff&style=for-the-badge" style="border-radius: 5px;" target="_blank"></a>
 </div>
 
