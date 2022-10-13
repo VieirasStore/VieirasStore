@@ -1,8 +1,9 @@
-# vsTest
+# Vieira's Store
 
+Olá! Tudo bom? Bem-vindo(a) a VieirasStore! Nós somos uma loja de FiveM criada desde 14 de dezembro de 2021. Atualmente com 693 membros, temos 4 produtos a venda sendo eles:
+Banner animado praça, banner entrada, bancos city e tambem bandeiras praça. Tambem temos 6 scripts prontos que disponibilizamos gratuitamente para a comunidade, você pode encontra-los aqui: https://github.com/VieirasStore/. Fazemos tutoriais ajudando as pessoas com suas duvidás sobre o FiveM no nosso canal no youtube.
 
-🇧🇷 pt-br
-Sou Luigi Guido Bavaresco, tenho 18 anos, estou iniciando minha carreira como programador, estudando jogos digitais
+Você pode saber mais sobre nós no nosso site > ** https://sites.google.com/view/vieiras-store/home **
 
 - 🔭 Atualmente estou trabalhando em projetos para servidores FiveM
 - 🌱 Atualmente estou aprendendo js, ​​lua, ruby, c#
