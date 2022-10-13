@@ -2,13 +2,6 @@
 
 <!--
 
-🇺🇸 en-us
-I'm Luigi Guido Bavaresco, I'm 18 years old, I'm starting my career as a programmer, studying digital games
-
-- 🔭 I'm currently working on projects for FiveM servers
-- 🌱 I’m currently learning js, lua, ruby, c#
-- 📫 How to reach me: https://discord.gg/w8hwRYJ4Zv
-
 🇧🇷 pt-br
 Sou Luigi Guido Bavaresco, tenho 18 anos, estou iniciando minha carreira como programador, estudando jogos digitais
 
