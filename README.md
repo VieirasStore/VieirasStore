@@ -9,6 +9,8 @@
 
 - Você pode saber mais sobre nós no nosso site > **https://sites.google.com/view/vieiras-store/home**
 
+**DICA:** Abaixo você pode verificar nossos melhores scripts feitos gratuitamente para a comunidade do FiveM.
+
  <div align="left">
   <a href="https://www.youtube.com/channel/UCV_bKKCJp2qoubhEgU1Ctjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/C5tXDsZhVJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
