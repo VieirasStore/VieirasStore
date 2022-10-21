@@ -11,6 +11,8 @@
 
 **DICA:** Abaixo você pode verificar nossos melhores scripts feitos gratuitamente para a comunidade do FiveM.
 
+**DICA 2:** Entrando em nosso discord apertando no botão abaixo você pode concorrer a sorteios diarios e muito mais!  
+
  <div align="left">
   <a href="https://www.youtube.com/channel/UCV_bKKCJp2qoubhEgU1Ctjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/C5tXDsZhVJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
