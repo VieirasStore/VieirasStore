@@ -1,6 +1,6 @@
 # Vieira's Store
 
-- Olá! Tudo bom? Bem-vindo(a) a Vieira's Store! Nós somos uma loja de FiveM criada desde 14 de dezembro de 2021. Atualmente com 751 membros, temos 4 produtos a venda no nosso discord sendo eles: Banner animado praça, banner entrada, bancos city e tambem bandeiras praça, Você pode entrar no nosso discord apertando no botão abaixo. Tambem temos 6 scripts prontos que disponibilizamos gratuitamente para a comunidade, você pode encontra-los aqui mesmo no github: https://github.com/VieirasStore/. Tambem fazemos tutoriais ajudando as pessoas com suas duvidás sobre o FiveM no nosso canal no youtube, Abaixo terá um botão que quando apertado você irá para o Youtube.
+- Olá! Tudo bom? Bem-vindo(a) a Vieira's Store! Nós somos uma desenvolvedora de scripts para o FiveM criada desde 14 de dezembro de 2021. Atualmente com 751 membros, temos 4 produtos a venda no nosso discord sendo eles: Banner animado praça, banner entrada, bancos city e tambem bandeiras praça, Você pode entrar no nosso discord apertando no botão abaixo. Tambem temos 6 scripts prontos que disponibilizamos gratuitamente para a comunidade, você pode encontra-los aqui mesmo no github: https://github.com/VieirasStore/. Tambem fazemos tutoriais ajudando as pessoas com suas duvidás sobre o FiveM no nosso canal no youtube, Abaixo terá um botão que quando apertado você irá para o Youtube.
 
 - 👨‍🚀 Atualmente nossa loja é focada no FiveM.
 - 💼 Nós utilizamos as linguagens: Lua, HTML e CSS em nossos scripts.
